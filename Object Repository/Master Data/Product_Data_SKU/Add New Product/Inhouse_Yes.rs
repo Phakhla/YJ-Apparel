@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Inhouse_Yes</name>
+   <tag></tag>
+   <elementGuidId>defd196c-4f1f-4242-a0da-9d0c4e3fbba9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Knit'])[1]/following::td[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>b0d311d8-4c4a-4477-8fd9-2d71c0ffe64e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Yes</value>
+      <webElementGuid>68a3d180-e413-449e-b778-54d84c7c824b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;h-100&quot;]/body[@class=&quot;h-100&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main_content&quot;]/div[@class=&quot;info&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 table-custom&quot;]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;table align-middle&quot;]/tbody[1]/tr[1]/td[7]</value>
+      <webElementGuid>787ae692-727c-40b1-8943-fb698e6b4d83</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Knit'])[1]/following::td[1]</value>
+      <webElementGuid>539128e4-23de-4672-a9c3-19cf1d5c91e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='L'])[1]/following::td[2]</value>
+      <webElementGuid>4ba8a86d-5841-43cd-922f-b18fdcc1a609</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ผ้าซับเหงื่อ แห้งไว'])[1]/preceding::td[1]</value>
+      <webElementGuid>76634a6c-93dc-4ec6-9974-47fc1bb11763</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Detail'])[1]/preceding::td[3]</value>
+      <webElementGuid>68fd6288-82a9-4032-b04f-6cad16df386a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Yes']/parent::*</value>
+      <webElementGuid>5f2cd11f-ee3c-45bc-900a-9120bf830b87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[7]</value>
+      <webElementGuid>ed595527-2462-4705-b226-ab7efe61e097</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Yes' or . = 'Yes')]</value>
+      <webElementGuid>32228b20-7ff5-4532-8722-160fe163ddb6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

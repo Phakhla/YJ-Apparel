@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>เลือกสถานะที่ต้องการดูรายงาน</description>
+   <name>TC054_Choose Status In Report Filter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>107ec3a7-919f-4a2c-8e8b-97f1559353f0</testCaseGuid>
+</TestCaseEntity>

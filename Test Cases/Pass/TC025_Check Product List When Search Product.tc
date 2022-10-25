@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ตรวจสอบหน้าจอ Product List เมื่อกดค้นหา Product</description>
+   <name>TC025_Check Product List When Search Product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>113a9bda-35de-43a6-b0aa-03b7699fa97a</testCaseGuid>
+</TestCaseEntity>

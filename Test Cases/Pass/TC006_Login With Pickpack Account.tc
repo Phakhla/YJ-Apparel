@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ตรวจสอบ Login กรณี Pickpack</description>
+   <name>TC006_Login With Pickpack Account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f65c3091-894f-4bce-b902-cbbf77fdbd6d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ตรวจสอบ Login กรณี Stock</description>
+   <name>TC005_Login With Stock Account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f75598df-16d5-4ce2-a624-0005bc71d2cb</testCaseGuid>
+</TestCaseEntity>

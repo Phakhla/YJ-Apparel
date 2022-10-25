@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>คลิก Inactive กับ Product Inhouse = Yes</description>
+   <name>TC023_Click Inactive With Used Product Inhouse</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f9b6bf66-2274-4670-b25e-58654ab3aa3f</testCaseGuid>
+</TestCaseEntity>

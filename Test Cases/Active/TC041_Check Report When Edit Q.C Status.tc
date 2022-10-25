@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ตรวจสอบ Report เมื่อแก้ไขสถานะ Q.C</description>
+   <name>TC041_Check Report When Edit Q.C Status</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c82dd4a3-9442-4cb3-a90d-70437a75a7ed</testCaseGuid>
+</TestCaseEntity>

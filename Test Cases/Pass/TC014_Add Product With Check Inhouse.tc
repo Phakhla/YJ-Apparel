@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>เพิ่ม Product (Inhouse = Yes)</description>
+   <name>TC014_Add Product With Check Inhouse</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>02d37ac4-2e32-4b59-8b71-eeb1c4659ad1</testCaseGuid>
+</TestCaseEntity>

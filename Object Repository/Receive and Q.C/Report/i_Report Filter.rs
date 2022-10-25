@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Report Filter</name>
+   <tag></tag>
+   <elementGuidId>16b3aab8-1442-4784-9ee5-df652d368a50</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fal.fa-filter</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='icon-filter']/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>19f19749-9071-4117-a9b6-97703eecb767</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fal fa-filter</value>
+      <webElementGuid>4db8e41e-da27-48c7-afd8-f9e24e66e5b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>dcbe138c-3ae2-46e1-b87b-527b9b57bd73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;icon-filter&quot;)/i[@class=&quot;fal fa-filter&quot;]</value>
+      <webElementGuid>59b6e195-2d56-4a6d-8ebe-99e5a84e789e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='icon-filter']/i</value>
+      <webElementGuid>07f83137-6ad9-4788-8b43-32c5211b6234</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/i</value>
+      <webElementGuid>62fcccf0-3ced-4f47-8761-7218a8eb9f7a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

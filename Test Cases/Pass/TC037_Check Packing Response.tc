@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ตรวจสอบการแสดงผล Packing</description>
+   <name>TC037_Check Packing Response</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b7e32981-6059-4136-8910-74a9c49dfeb5</testCaseGuid>
+</TestCaseEntity>

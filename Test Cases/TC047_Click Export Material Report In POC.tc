@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>คลิก Export Material Report ใน POC</description>
+   <name>TC047_Click Export Material Report In POC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1df8e68f-9ce4-4aac-a47c-e6843f6e3be6</testCaseGuid>
+</TestCaseEntity>

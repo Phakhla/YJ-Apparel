@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Productlist_SKU_detail</name>
+   <tag></tag>
+   <elementGuidId>7b76e806-310b-41a4-a061-a46ada21042b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Updated at'])[1]/following::td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html[@class=&quot;h-100&quot;]/body[@class=&quot;h-100&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main_content&quot;]/div[@class=&quot;info&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 table-custom&quot;]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;table align-middle&quot;]/tbody[1]/tr[1]/td[2][count(. | //*[(text() = '000-green-l' or . = '000-green-l')]) = count(//*[(text() = '000-green-l' or . = '000-green-l')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>5df077ba-3d2b-4bea-93bf-96d23865b69a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>000-green-l</value>
+      <webElementGuid>7231fe15-acbf-4e66-9557-749d8e35faac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;h-100&quot;]/body[@class=&quot;h-100&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main_content&quot;]/div[@class=&quot;info&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 table-custom&quot;]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;table align-middle&quot;]/tbody[1]/tr[1]/td[2]</value>
+      <webElementGuid>d2be2a03-ef3d-428b-bd39-5faff93f1bdf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Updated at'])[1]/following::td[2]</value>
+      <webElementGuid>5a22dd1d-0642-48db-b568-7de5c3d9e071</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description Thai'])[1]/following::td[2]</value>
+      <webElementGuid>c9ee13a8-7494-4f7a-b941-067a16e37ced</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Green'])[1]/preceding::td[2]</value>
+      <webElementGuid>40112a9e-9334-40dc-9897-5846c8bf7f4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='L'])[1]/preceding::td[3]</value>
+      <webElementGuid>1ef746e3-eade-4681-af52-ca5cd224782e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='000-green-l']/parent::*</value>
+      <webElementGuid>3d38e858-7daa-4dca-b734-f3be938713a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]</value>
+      <webElementGuid>6de03cc2-7e2d-45ea-9339-4d33070e3416</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '000-green-l' or . = '000-green-l')]</value>
+      <webElementGuid>f4cc09c6-d6ad-4ae5-b137-7fa0192b0579</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

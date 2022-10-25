@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>กรณี Duplicate product (Inhouse = Yes)</description>
+   <name>TC017_Duplicate Product With Check Inhouse</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>22660972-187b-407e-94a1-97c18f40380f</testCaseGuid>
+</TestCaseEntity>

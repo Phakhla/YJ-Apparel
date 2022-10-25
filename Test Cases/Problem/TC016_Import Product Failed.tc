@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Import Product ไม่สเร็จ</description>
+   <name>TC016_Import Product Failed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>27479b0c-6f5b-46b5-8c87-df1bbbc95afe</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>สร้าง POC Inhouse ที่ POC มีสถานะเป็น Waiting For Materials</description>
+   <name>TC045_Create POC Inhouse With POC Status Is Waiting For Materials</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9f25a552-6e60-4f65-b15c-5880fa53d10f</testCaseGuid>
+</TestCaseEntity>

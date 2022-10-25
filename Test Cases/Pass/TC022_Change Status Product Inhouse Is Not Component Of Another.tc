@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC022_Change Status Product Inhouse Is Not Component Of Another</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f11de4b1-f71c-4b0f-abb6-63610f495ef5</testCaseGuid>
+</TestCaseEntity>
