@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>แก้ไข Product Inhouse จาก No เป็น yes 
+และ Product นั้นไม่มี Inhouse เป็นส่วนประกอบ</description>
+   <name>TC020_Change Status Product Have Not Inhouse</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c891fc2d-13c5-4ffa-a39d-e5153e702657</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ตรวจสอบ Report เมื่อกดปุ่ม Print Report</description>
+   <name>TC042_Check Report When Print Report</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b2647077-f7a3-4f36-8081-4f08f8de531f</testCaseGuid>
+</TestCaseEntity>

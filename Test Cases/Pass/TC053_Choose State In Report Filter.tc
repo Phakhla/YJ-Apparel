@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>เลือก State ที่ต้องการดูรายงาน</description>
+   <name>TC053_Choose State In Report Filter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd4516b6-2283-4638-b4a3-4bc435ca460d</testCaseGuid>
+</TestCaseEntity>

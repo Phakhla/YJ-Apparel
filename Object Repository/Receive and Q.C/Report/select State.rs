@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select State</name>
+   <tag></tag>
+   <elementGuidId>7f6e726f-364b-41f2-bd9c-ae23b21e27df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#state</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='state']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>fb4f8bee-b0f9-4610-a601-0e029d1b9ed9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>state</value>
+      <webElementGuid>96214ff2-8fc6-4bdb-820d-991c932810be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-select</value>
+      <webElementGuid>cb83f215-ff3e-4644-a5db-ed09bba1c1e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-action</name>
+      <type>Main</type>
+      <value>change->receive-report#selectState</value>
+      <webElementGuid>4fff25aa-4de4-4fc6-b4eb-b86f3afad747</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-receive-report-target</name>
+      <type>Main</type>
+      <value>state</value>
+      <webElementGuid>97ba67ce-87eb-4172-81ea-728f5c1c83a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>q[last_status]</value>
+      <webElementGuid>77b112c0-f81f-4266-825c-d20c538c99d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>-
+Open
+Receive item
+Q.C.
+Packing
+Reprint</value>
+      <webElementGuid>0590f2cd-a880-479a-94fb-fcc8dbf42fd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;state&quot;)</value>
+      <webElementGuid>900a4a37-6e43-4ca1-b2c9-01d181125bb9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='state']</value>
+      <webElementGuid>8f9548b5-b7dd-4641-b080-3c20f51760bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='filter-size']/div[3]/div/select</value>
+      <webElementGuid>387eee66-25b3-452b-8498-5d000efa7a0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='State'])[1]/following::select[1]</value>
+      <webElementGuid>95257130-9c19-4cfc-bff8-766e52f6ca9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[2]/following::select[1]</value>
+      <webElementGuid>15be944a-fd69-406b-9a59-8b5a42899d48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/preceding::select[1]</value>
+      <webElementGuid>bacc0d62-9595-4ca6-b065-67675d288ac4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/select</value>
+      <webElementGuid>ad301962-4ada-4478-9f62-10152badf52a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'state' and @name = 'q[last_status]' and (text() = '-
+Open
+Receive item
+Q.C.
+Packing
+Reprint' or . = '-
+Open
+Receive item
+Q.C.
+Packing
+Reprint')]</value>
+      <webElementGuid>8ac91a61-2c18-4328-bad5-f7d980f3d915</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

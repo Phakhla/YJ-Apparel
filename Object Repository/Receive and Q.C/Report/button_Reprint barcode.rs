@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Reprint barcode</name>
+   <tag></tag>
+   <elementGuidId>c6f5153a-419f-4ac0-91b2-cb61e070ed90</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#reprintBarcode</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='reprintBarcode']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e57b69c5-dd45-49a5-9087-f33e6abcf802</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>986a46d2-7afb-4e37-8560-064165ac662c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-custom btn-reprint text-decoration-none ms-2</value>
+      <webElementGuid>feb64140-5b4d-41dd-863e-cd6af14ce790</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>reprintBarcode</value>
+      <webElementGuid>3102184e-b85d-4851-98de-f7ebde58fedc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-action</name>
+      <type>Main</type>
+      <value>click->receive-report#checkItemChecked</value>
+      <webElementGuid>7d33542c-df44-43e9-88d5-f9620a1f3bb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+           Reprint barcode
+        </value>
+      <webElementGuid>a372cb10-0312-44d3-bb43-6d61573b9bf1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;reprintBarcode&quot;)</value>
+      <webElementGuid>7917a020-11a8-441d-ae3a-af12e8d77fdd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='reprintBarcode']</value>
+      <webElementGuid>67f34ae3-417a-4e78-8ee8-90dcf569c34a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='item-form-ids']/div/div/div/button</value>
+      <webElementGuid>260c0794-a172-4ad9-89a4-f7dfe4d229c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply'])[1]/following::button[1]</value>
+      <webElementGuid>456a1059-f419-4904-bf04-22b7a14298c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reprint Barcode'])[1]/preceding::button[2]</value>
+      <webElementGuid>dc8d8365-88dd-4fda-8add-011849a0476e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your password is not correct please re-enter'])[1]/preceding::button[2]</value>
+      <webElementGuid>415e805b-be13-45b3-91a4-e3f58394baeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Reprint barcode']/parent::*</value>
+      <webElementGuid>3bc33858-4a85-468d-a5eb-8580904e87dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div/button</value>
+      <webElementGuid>311afc4e-b944-4672-9603-58e792de84f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'reprintBarcode' and (text() = '
+           Reprint barcode
+        ' or . = '
+           Reprint barcode
+        ')]</value>
+      <webElementGuid>2c1631fb-c89a-4173-98f5-881354c34836</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

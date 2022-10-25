@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ตรวจสอบ Packing เมื่อกดปุ่ม Submit Packing</description>
+   <name>TC039_Check Packing When Click Submit Packing</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e5e39f91-08f5-4e4b-8082-e1f0276b6387</testCaseGuid>
+</TestCaseEntity>

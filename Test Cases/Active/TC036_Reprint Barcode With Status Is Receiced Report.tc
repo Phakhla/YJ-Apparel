@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>กดปุ่ม Reprint Barcode กับ Report ที่มีสถานะเป็น Receiced</description>
+   <name>TC036_Reprint Barcode With Status Is Receiced Report</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>61bb5fc7-2a29-436d-b2b4-17ca8fb0e618</testCaseGuid>
+</TestCaseEntity>
